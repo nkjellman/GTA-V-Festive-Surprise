@@ -1,0 +1,19 @@
+Festive Surprise in SP
+
+This simple script brings the Festive Surprise props from GTA Online to GTA V. When the date on your system is December, it will spawn the Christmas Tree props from MP.
+
+Tree Placements:
+-Large tree in Downtown LS. (Position matches Online)
+-Franklin's Aunt's Strawberry house
+-Michael's Rockford Hills house
+-Franklin's Vinewood Hills house
+-Floyd's La Puerta condo
+-FIB Building (Lobby and 49th floor)
+-Life Invader office (Lobby and 2nd floor)
+
+Note:
+-You can make the props enabled all year by changing "Enable all year" to "true" in the "FestiveSurprise.ini".
+-I did not add the trees in the Online apartments and buisnesses. Single Player Apartment takes care of that.
+-I did not add the snow because that can be done with a trainer when ever you want.
+-I did not add a tree to Trevor's trailer. There wasn't a good spot to place it, and I doubt Trevor would bother with a tree anyways.
+-I used Alex106's OnlineInteriorsProps.cs script as a base. This does not place any of the props he had, so there are no compatibility problems.
